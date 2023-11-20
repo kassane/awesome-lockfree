@@ -12,11 +12,14 @@ A collection of resources on wait-free and lock-free programming.
 * [Folly](https://github.com/facebook/folly) - Facebook Open-source Library (has good implementation of MPMC queue).
 * [Junction](https://github.com/preshing/junction) - Concurrent data structures in C++.
 * [MPMCQueue](https://github.com/rigtorp/MPMCQueue) - A bounded multi-producer multi-consumer lock-free queue written in C++11.
+* [MPSC-Queue](https://github.com/grivet/mpsc-queue) - A C11 implementation of D. Vyukov MPSC queue.
 * [SPSCQueue](https://github.com/rigtorp/SPSCQueue) - A bounded single-producer single-consumer wait-free and lock-free queue written in C++11.
+* [Waitfree MPSC Queue](https://github.com/dbittman/waitfree-mpsc-queue) - A wait-free multi-producer-single-consumer queue in C11 atomics.
 * [Seqlock](https://github.com/rigtorp/Seqlock) - Implementation of Seqlock in C++.
 * [Userspace RCU](http://liburcu.org/) - liburcu is a userspace RCU (read-copy-update) library.
 * [libcds](https://github.com/khizmax/libcds) - A C++ library of Concurrent Data Structures.
 * [liblfds](https://liblfds.org/) - portable, license-free, lock-free data structure library written in C.
+* [liblfdsd](https://github.com/mw66/liblfdsd) - liblfds for D binding: from the portable, license-free, lock-free data structure C library
 * [xenium](https://github.com/mpoeter/xenium) - A C++ library providing various concurrent data structures and reclamation schemes.
 
 ## Websites
